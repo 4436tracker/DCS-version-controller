@@ -8,4 +8,4 @@
 
 
 
-![1](.\img\1.png)
+![1](https://github.com/c4p74ln/DCS-version-controller/blob/main/img/1.png)
