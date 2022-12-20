@@ -1,0 +1,11 @@
+C:\Users\viper\source\repos\DCS 版本转换\DCS 版本转换\bin\Release\DCS 版本转换.exe.config
+C:\Users\viper\source\repos\DCS 版本转换\DCS 版本转换\bin\Release\DCS 版本转换.exe
+C:\Users\viper\source\repos\DCS 版本转换\DCS 版本转换\bin\Release\DCS 版本转换.pdb
+C:\Users\viper\source\repos\DCS 版本转换\DCS 版本转换\obj\Release\DCS 版本转换.csproj.AssemblyReference.cache
+C:\Users\viper\source\repos\DCS 版本转换\DCS 版本转换\obj\Release\DCS 版本转换.csproj.SuggestedBindingRedirects.cache
+C:\Users\viper\source\repos\DCS 版本转换\DCS 版本转换\obj\Release\DCS_版本转换.DCSConvert.resources
+C:\Users\viper\source\repos\DCS 版本转换\DCS 版本转换\obj\Release\DCS_版本转换.Properties.Resources.resources
+C:\Users\viper\source\repos\DCS 版本转换\DCS 版本转换\obj\Release\DCS 版本转换.csproj.GenerateResource.cache
+C:\Users\viper\source\repos\DCS 版本转换\DCS 版本转换\obj\Release\DCS 版本转换.csproj.CoreCompileInputs.cache
+C:\Users\viper\source\repos\DCS 版本转换\DCS 版本转换\obj\Release\DCS 版本转换.exe
+C:\Users\viper\source\repos\DCS 版本转换\DCS 版本转换\obj\Release\DCS 版本转换.pdb
